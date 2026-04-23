@@ -118,7 +118,7 @@ int main()
 {
     LinkedList mhs;
     int nim;
-    int ch;
+    char ch;
 
     do
     {
